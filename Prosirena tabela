@@ -11,6 +11,6 @@ Rezultati = [[1, "Una", "Zorić", "Ž", 161, 45, 16.32, 1.21, 25],
 
 TabelaRezultata = pd.DataFrame(Rezultati)
 TabelaRezultata.columns = ["R. br.", "Ime", "Prezime", "Pol", "Visina",
-                           "Težina", "Trka100m", "Skok udalj", "Čučnjevi"]
+                           "Tezina", "Trka100m", "Skok udalj", "Cucnjevi"]
 
 TabelaRezultata
