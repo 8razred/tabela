@@ -1,6 +1,12 @@
-Temperature = [["Beograd", 0.8, 5.6, 11.4, 14.2, 15.6, 24.1, 24.3, 26.5, 20.2, 16.1, 12.4, 6.0],
-              ["Nis", 1.4, 3.05, 7.65, 12.4, 17.4, 20.45, 22.6, 22.75, 18.25, 13.35, 7.25, 2.65],
-              ["Kikinda", 1.1, 4.2, 9.5, 12.7, 16.05, 22.1, 23.1, 26.5, 20.1, 15.9, 8.8, 4.0],
-              ["Cacak", 0.5, 4.8, 8.4, 13.7, 15.5, 21.9, 23.4, 24.66, 19.8, 14.7, 10.0, 5.1]]
+ucenici = [["Đokić Danijel", "M", "vrlo dobar", 4, 3.46],
+            ["Simonović Ema", "Z", "odličan", 5, 5.00],
+            ["Ilić Goran", "M", "dobar", 3, 2.79],
+            ["Petrović Igor", "M", "vrlo dobar", 5, 4.11],
+            ["Perišić Mladen", "M", "dobar", 4, 3.23],
+            ["Majstorović Marija", "Z", "odličan", 5, 4.50],
+            ["Dabović Petar", "M", "odličan", 5, 4.75],
+            ["Jovanović Jasmina", "Z", "dobar", 3, 2.53],
+            ["Simonović Dragan", "M", "dovoljan", 2, 2.13],
+            ["Nikolić Maja", "Z", "vrlo dobar", 4, 3.83]]
 
-["Grad/mesec", "Jan", "Feb", "Mar", "Apr", "Maj", "Jun", "Jul", "Avg", "Sep", "Okt", "Nov", "Dec"]
+["Ucenici", "Pol", "Uspeh", "Informatika", "Srednja ocena"]
